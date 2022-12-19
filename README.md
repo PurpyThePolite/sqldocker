@@ -1,1 +1,1 @@
-for sql testing.# sqldocker, testing
+# sqldocker, testing
